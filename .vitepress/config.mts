@@ -10,6 +10,7 @@ export default defineConfig({
   rewrites: {
     "readme.md": "index.md",
   },
+  srcExclude: ["code_of_conduct.md", "contributing.md"],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     outline: "deep",
