@@ -5,4 +5,3 @@ workers_dev = false
 
 [assets]
 directory = "./docs/.vitepress/dist"
-binding = "ASSETS"
