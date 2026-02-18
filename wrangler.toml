@@ -4,4 +4,4 @@ compatibility_date = "2026-02-18"
 workers_dev = false
 
 [assets]
-directory = "./docs/.vitepress/dist"
+directory = "./.vitepress/dist"
