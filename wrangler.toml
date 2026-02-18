@@ -1,0 +1,4 @@
+"$schema" = "https://esm.sh/wrangler@4.66.0/config-schema.json"
+name = "awesome-hacknet"
+compatibility_date = "2026-02-18"
+workers_dev = false
