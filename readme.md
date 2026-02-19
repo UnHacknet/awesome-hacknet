@@ -6,6 +6,7 @@
 
 - [Tutorial](#tutorial)
 - [Community](#community)
+- [Modification](#modification)
 - [Development](#development)
 - [Resources](#resources)
 
@@ -18,6 +19,10 @@
 - [Hacknet_Extensions (Discord)](https://discord.gg/7cHhVT9) - Hacknet Official Discord Server.
 - [Hacknet_Modding (Discord)](https://discord.gg/65SaxGg) - Hacknet Pathfinder's Discord Server.
 - HN扩展小屋 (CN, QQ Group: 940056115) - UnOfficial Hacknet Extension Community.
+
+## Modification
+
+- [Hacknet-Pathfinder](https://github.com/Arkhist/Hacknet-Pathfinder) - An extensive modding API and loader for Hacknet that enables practically limitless programable extensions to the game.
 
 ## Development
 
