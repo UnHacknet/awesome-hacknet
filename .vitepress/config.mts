@@ -6,6 +6,7 @@ export default defineConfig({
   description: "A curated list of awesome things related to Hacknet.",
   lang: "en",
   lastUpdated: true,
+  base: "awesome",
   srcDir: "./",
   rewrites: {
     "readme.md": "index.md",
