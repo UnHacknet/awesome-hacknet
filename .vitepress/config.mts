@@ -15,7 +15,6 @@ export default defineConfig({
   srcExclude: ["code_of_conduct.md", "contributing.md"],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logoLink: "https://hacknet.wiki/",
     outline: "deep",
     nav: [{ text: "Hacknet.wiki", link: "https://Hacknet.wiki" }],
     search: {
