@@ -6,8 +6,9 @@ export default defineConfig({
   description: "A curated list of awesome things related to Hacknet.",
   lang: "en",
   lastUpdated: true,
-  base: "awesome",
+  base: "/awesome",
   srcDir: "./",
+  outDir: "./.vitepress/dist/awesome",
   rewrites: {
     "readme.md": "index.md",
   },
