@@ -24,7 +24,7 @@
 
 - [Hacknet-Pathfinder](https://github.com/Arkhist/Hacknet-Pathfinder) - An extensive modding API and loader for Hacknet that enables practically limitless programable extensions to the game.
   - [HacknetFontReplace](https://github.com/fengxu-30338/HacknetFontReplace/) - A Pathfinder mod that adds Font switching support.
-  - [Kernelfix](https://github.com/LDTchara/kernelfix) - A Pathfinder mod that fixes several long-standing bugs in the base game.
+  - [KernelFix](https://github.com/LDTchara/KernelFix) - A Pathfinder mod that fixes several long-standing bugs in the base game.
 
 ## Development
 
