@@ -32,6 +32,7 @@
 - [Hacknet-VSCode](https://github.com/AutumnRivers/hacknet-vscode) - VSCode Extension that provides completion functionality for structure and tag templates.
 - [HacknetHotReplace](https://github.com/fengxu-30338/HacknetHotReplace) - A Pathfinder mod that add Hot Replace Extension File Support.
 - [HacknetThemeEditor](https://github.com/AutumnRivers/HacknetThemeEditor) - Real-time theme editor plugin for Hacknet. (Pathfinder Mod)
+- [VRift](https://github.com/NihonFemStyle/VRift) - NextGen Hacknet Extensions Studio, Available for all platforms
 
 ## Resources
 
